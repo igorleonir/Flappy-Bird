@@ -1,9 +1,3 @@
-<br>
-
-  - [Description](#description)
-  - [Quickstart](#quickstart)
-
-<br>
 
 ## Description
 
